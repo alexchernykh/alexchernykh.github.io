@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Alexander Chernykh</title>
+    <link>https://example.com/blog/</link>
+    <description>Recent content in Blog on Alexander Chernykh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://example.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first post</title>
+      <link>https://example.com/blog/first-blog/</link>
+      <pubDate>Tue, 31 Dec 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://example.com/blog/first-blog/</guid>
+      <description>Here i can post smth in Markdown
+Why Hugo? The first question is why a site builder? I&amp;rsquo;m competent at web development, why not just write it all myself? The markdown processing makes it much easier to just write words, not having to think about the formatting, and if I&amp;rsquo;m going to blog often, then I&amp;rsquo;ll need that.
+Next it gets to why Hugo? why not Jekyll or any of the other vast array of site builders?</description>
+    </item>
+    
+  </channel>
+</rss>
