@@ -8,14 +8,12 @@
     <language>en-gb</language>
     <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://example.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My first post</title>
+      <title>First Post</title>
       <link>https://example.com/blog/first-blog/</link>
-      <pubDate>Tue, 31 Dec 2019 12:14:34 +0600</pubDate>
+      <pubDate>Mon, 18 Jan 2021 12:14:34 +0600</pubDate>
       
       <guid>https://example.com/blog/first-blog/</guid>
-      <description>Here i can post smth in Markdown
-Why Hugo? The first question is why a site builder? I&amp;rsquo;m competent at web development, why not just write it all myself? The markdown processing makes it much easier to just write words, not having to think about the formatting, and if I&amp;rsquo;m going to blog often, then I&amp;rsquo;ll need that.
-Next it gets to why Hugo? why not Jekyll or any of the other vast array of site builders?</description>
+      <description>I post here sometimes</description>
     </item>
     
   </channel>
