@@ -8,12 +8,14 @@
     <language>en-gb</language>
     <lastBuildDate>Sat, 19 Dec 2020 15:26:15 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First Post</title>
+      <title>RecoFach</title>
       <link>https://example.com/blog/first-blog/</link>
       <pubDate>Mon, 18 Jan 2021 12:14:34 +0600</pubDate>
       
       <guid>https://example.com/blog/first-blog/</guid>
-      <description>I post here sometimes</description>
+      <description>Motivation The Computer Science facluty of the Technische Universität Dresden allows to choose various subjects based on the interests of a student.
+Due to the large number of available subjects, it was decided to make a subject recommendation system based on the student preferences.
+Architecture Technologiees used Deployment Contribution Open pull request and contribute to our repository</description>
     </item>
     
     <item>
